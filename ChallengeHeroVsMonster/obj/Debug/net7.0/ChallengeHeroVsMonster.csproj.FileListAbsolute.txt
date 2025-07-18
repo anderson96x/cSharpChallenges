@@ -1,0 +1,14 @@
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeHeroVsMonster\obj\Debug\net7.0\ChallengeHeroVsMonster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeHeroVsMonster\obj\Debug\net7.0\ChallengeHeroVsMonster.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeHeroVsMonster\obj\Debug\net7.0\ChallengeHeroVsMonster.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeHeroVsMonster\obj\Debug\net7.0\ChallengeHeroVsMonster.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeHeroVsMonster\bin\Debug\net7.0\ChallengeHeroVsMonster.exe
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeHeroVsMonster\bin\Debug\net7.0\ChallengeHeroVsMonster.deps.json
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeHeroVsMonster\bin\Debug\net7.0\ChallengeHeroVsMonster.runtimeconfig.json
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeHeroVsMonster\bin\Debug\net7.0\ChallengeHeroVsMonster.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeHeroVsMonster\bin\Debug\net7.0\ChallengeHeroVsMonster.pdb
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeHeroVsMonster\obj\Debug\net7.0\ChallengeHeroVsMonster.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeHeroVsMonster\obj\Debug\net7.0\refint\ChallengeHeroVsMonster.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeHeroVsMonster\obj\Debug\net7.0\ChallengeHeroVsMonster.pdb
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeHeroVsMonster\obj\Debug\net7.0\ChallengeHeroVsMonster.genruntimeconfig.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeHeroVsMonster\obj\Debug\net7.0\ref\ChallengeHeroVsMonster.dll

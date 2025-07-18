@@ -1,0 +1,14 @@
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\GradesClassification\bin\Debug\net7.0\GradesClassification.exe
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\GradesClassification\bin\Debug\net7.0\GradesClassification.deps.json
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\GradesClassification\bin\Debug\net7.0\GradesClassification.runtimeconfig.json
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\GradesClassification\bin\Debug\net7.0\GradesClassification.dll
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\GradesClassification\bin\Debug\net7.0\GradesClassification.pdb
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\GradesClassification\obj\Debug\net7.0\GradesClassification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\GradesClassification\obj\Debug\net7.0\GradesClassification.AssemblyInfoInputs.cache
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\GradesClassification\obj\Debug\net7.0\GradesClassification.AssemblyInfo.cs
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\GradesClassification\obj\Debug\net7.0\GradesClassification.csproj.CoreCompileInputs.cache
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\GradesClassification\obj\Debug\net7.0\GradesClassification.dll
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\GradesClassification\obj\Debug\net7.0\refint\GradesClassification.dll
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\GradesClassification\obj\Debug\net7.0\GradesClassification.pdb
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\GradesClassification\obj\Debug\net7.0\GradesClassification.genruntimeconfig.cache
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\GradesClassification\obj\Debug\net7.0\ref\GradesClassification.dll

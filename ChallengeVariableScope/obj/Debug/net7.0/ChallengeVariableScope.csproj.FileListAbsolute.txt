@@ -1,0 +1,14 @@
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeVariableScope\obj\Debug\net7.0\ChallengeVariableScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeVariableScope\obj\Debug\net7.0\ChallengeVariableScope.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeVariableScope\obj\Debug\net7.0\ChallengeVariableScope.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeVariableScope\obj\Debug\net7.0\ChallengeVariableScope.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeVariableScope\bin\Debug\net7.0\ChallengeVariableScope.exe
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeVariableScope\bin\Debug\net7.0\ChallengeVariableScope.deps.json
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeVariableScope\bin\Debug\net7.0\ChallengeVariableScope.runtimeconfig.json
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeVariableScope\bin\Debug\net7.0\ChallengeVariableScope.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeVariableScope\bin\Debug\net7.0\ChallengeVariableScope.pdb
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeVariableScope\obj\Debug\net7.0\ChallengeVariableScope.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeVariableScope\obj\Debug\net7.0\refint\ChallengeVariableScope.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeVariableScope\obj\Debug\net7.0\ChallengeVariableScope.pdb
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeVariableScope\obj\Debug\net7.0\ChallengeVariableScope.genruntimeconfig.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeVariableScope\obj\Debug\net7.0\ref\ChallengeVariableScope.dll

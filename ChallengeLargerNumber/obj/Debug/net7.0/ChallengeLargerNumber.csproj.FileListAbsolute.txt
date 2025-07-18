@@ -1,0 +1,14 @@
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeLargerNumber\bin\Debug\net7.0\ChallengeLargerNumber.exe
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeLargerNumber\bin\Debug\net7.0\ChallengeLargerNumber.deps.json
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeLargerNumber\bin\Debug\net7.0\ChallengeLargerNumber.runtimeconfig.json
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeLargerNumber\bin\Debug\net7.0\ChallengeLargerNumber.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeLargerNumber\bin\Debug\net7.0\ChallengeLargerNumber.pdb
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeLargerNumber\obj\Debug\net7.0\ChallengeLargerNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeLargerNumber\obj\Debug\net7.0\ChallengeLargerNumber.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeLargerNumber\obj\Debug\net7.0\ChallengeLargerNumber.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeLargerNumber\obj\Debug\net7.0\ChallengeLargerNumber.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeLargerNumber\obj\Debug\net7.0\ChallengeLargerNumber.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeLargerNumber\obj\Debug\net7.0\refint\ChallengeLargerNumber.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeLargerNumber\obj\Debug\net7.0\ChallengeLargerNumber.pdb
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeLargerNumber\obj\Debug\net7.0\ChallengeLargerNumber.genruntimeconfig.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeLargerNumber\obj\Debug\net7.0\ref\ChallengeLargerNumber.dll

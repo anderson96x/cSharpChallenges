@@ -1,0 +1,14 @@
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeIfXSwitch\obj\Debug\net7.0\ChallengeIfXSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeIfXSwitch\obj\Debug\net7.0\ChallengeIfXSwitch.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeIfXSwitch\obj\Debug\net7.0\ChallengeIfXSwitch.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeIfXSwitch\obj\Debug\net7.0\ChallengeIfXSwitch.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeIfXSwitch\bin\Debug\net7.0\ChallengeIfXSwitch.exe
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeIfXSwitch\bin\Debug\net7.0\ChallengeIfXSwitch.deps.json
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeIfXSwitch\bin\Debug\net7.0\ChallengeIfXSwitch.runtimeconfig.json
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeIfXSwitch\bin\Debug\net7.0\ChallengeIfXSwitch.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeIfXSwitch\bin\Debug\net7.0\ChallengeIfXSwitch.pdb
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeIfXSwitch\obj\Debug\net7.0\ChallengeIfXSwitch.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeIfXSwitch\obj\Debug\net7.0\refint\ChallengeIfXSwitch.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeIfXSwitch\obj\Debug\net7.0\ChallengeIfXSwitch.pdb
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeIfXSwitch\obj\Debug\net7.0\ChallengeIfXSwitch.genruntimeconfig.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeIfXSwitch\obj\Debug\net7.0\ref\ChallengeIfXSwitch.dll

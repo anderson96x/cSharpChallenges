@@ -1,0 +1,14 @@
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\challengepet\obj\Debug\net7.0\challengepet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\challengepet\obj\Debug\net7.0\challengepet.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\challengepet\obj\Debug\net7.0\challengepet.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\challengepet\obj\Debug\net7.0\challengepet.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\challengepet\bin\Debug\net7.0\challengepet.exe
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\challengepet\bin\Debug\net7.0\challengepet.deps.json
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\challengepet\bin\Debug\net7.0\challengepet.runtimeconfig.json
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\challengepet\bin\Debug\net7.0\challengepet.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\challengepet\bin\Debug\net7.0\challengepet.pdb
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\challengepet\obj\Debug\net7.0\challengepet.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\challengepet\obj\Debug\net7.0\refint\challengepet.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\challengepet\obj\Debug\net7.0\challengepet.pdb
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\challengepet\obj\Debug\net7.0\challengepet.genruntimeconfig.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\challengepet\obj\Debug\net7.0\ref\challengepet.dll

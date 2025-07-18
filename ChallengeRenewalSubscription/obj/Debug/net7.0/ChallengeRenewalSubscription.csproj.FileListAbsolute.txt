@@ -1,0 +1,14 @@
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeRenewalSubscription\bin\Debug\net7.0\ChallengeRenewalSubscription.exe
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeRenewalSubscription\bin\Debug\net7.0\ChallengeRenewalSubscription.deps.json
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeRenewalSubscription\bin\Debug\net7.0\ChallengeRenewalSubscription.runtimeconfig.json
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeRenewalSubscription\bin\Debug\net7.0\ChallengeRenewalSubscription.dll
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeRenewalSubscription\bin\Debug\net7.0\ChallengeRenewalSubscription.pdb
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeRenewalSubscription\obj\Debug\net7.0\ChallengeRenewalSubscription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeRenewalSubscription\obj\Debug\net7.0\ChallengeRenewalSubscription.AssemblyInfoInputs.cache
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeRenewalSubscription\obj\Debug\net7.0\ChallengeRenewalSubscription.AssemblyInfo.cs
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeRenewalSubscription\obj\Debug\net7.0\ChallengeRenewalSubscription.csproj.CoreCompileInputs.cache
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeRenewalSubscription\obj\Debug\net7.0\ChallengeRenewalSubscription.dll
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeRenewalSubscription\obj\Debug\net7.0\refint\ChallengeRenewalSubscription.dll
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeRenewalSubscription\obj\Debug\net7.0\ChallengeRenewalSubscription.pdb
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeRenewalSubscription\obj\Debug\net7.0\ChallengeRenewalSubscription.genruntimeconfig.cache
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeRenewalSubscription\obj\Debug\net7.0\ref\ChallengeRenewalSubscription.dll

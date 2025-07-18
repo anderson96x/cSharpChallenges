@@ -1,0 +1,14 @@
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\contosodealership\bin\Debug\net7.0\contosodealership.exe
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\contosodealership\bin\Debug\net7.0\contosodealership.deps.json
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\contosodealership\bin\Debug\net7.0\contosodealership.runtimeconfig.json
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\contosodealership\bin\Debug\net7.0\contosodealership.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\contosodealership\bin\Debug\net7.0\contosodealership.pdb
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\contosodealership\obj\Debug\net7.0\contosodealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\contosodealership\obj\Debug\net7.0\contosodealership.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\contosodealership\obj\Debug\net7.0\contosodealership.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\contosodealership\obj\Debug\net7.0\contosodealership.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\contosodealership\obj\Debug\net7.0\contosodealership.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\contosodealership\obj\Debug\net7.0\refint\contosodealership.dll
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\contosodealership\obj\Debug\net7.0\contosodealership.pdb
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\contosodealership\obj\Debug\net7.0\contosodealership.genruntimeconfig.cache
+C:\Users\ander\OneDrive\Documentos\Developer\C#\freeCodeCamp\contosodealership\obj\Debug\net7.0\ref\contosodealership.dll

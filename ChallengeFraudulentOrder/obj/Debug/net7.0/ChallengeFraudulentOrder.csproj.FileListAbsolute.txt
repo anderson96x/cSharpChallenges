@@ -1,0 +1,14 @@
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeFraudulentOrder\bin\Debug\net7.0\ChallengeFraudulentOrder.exe
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeFraudulentOrder\bin\Debug\net7.0\ChallengeFraudulentOrder.deps.json
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeFraudulentOrder\bin\Debug\net7.0\ChallengeFraudulentOrder.runtimeconfig.json
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeFraudulentOrder\bin\Debug\net7.0\ChallengeFraudulentOrder.dll
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeFraudulentOrder\bin\Debug\net7.0\ChallengeFraudulentOrder.pdb
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeFraudulentOrder\obj\Debug\net7.0\ChallengeFraudulentOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeFraudulentOrder\obj\Debug\net7.0\ChallengeFraudulentOrder.AssemblyInfoInputs.cache
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeFraudulentOrder\obj\Debug\net7.0\ChallengeFraudulentOrder.AssemblyInfo.cs
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeFraudulentOrder\obj\Debug\net7.0\ChallengeFraudulentOrder.csproj.CoreCompileInputs.cache
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeFraudulentOrder\obj\Debug\net7.0\ChallengeFraudulentOrder.dll
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeFraudulentOrder\obj\Debug\net7.0\refint\ChallengeFraudulentOrder.dll
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeFraudulentOrder\obj\Debug\net7.0\ChallengeFraudulentOrder.pdb
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeFraudulentOrder\obj\Debug\net7.0\ChallengeFraudulentOrder.genruntimeconfig.cache
+C:\Users\92031131\OneDrive\Documentos\Developer\C#\freeCodeCamp\ChallengeFraudulentOrder\obj\Debug\net7.0\ref\ChallengeFraudulentOrder.dll
